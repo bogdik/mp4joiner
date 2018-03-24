@@ -8,7 +8,7 @@ If you want use in python:
 - ```pip install wxpython```
 - ```python mp4joiner.py```
 
-If use compiled just start exe file
+If use <a href="https://github.com/bogdik/mp4joiner/releases">compiled</a> just start exe file
 
 # For Linux
 
@@ -17,6 +17,13 @@ If use compiled just start exe file
 - ```pip install -U wxpython```
 - ```python mp4joiner.py```
 
-#Screenshot
+# Use
+
+- Just select folder containing source mp4 files
+- Click JOIN
+- Wait result output file in containing folder
+
+
+# Screenshot
 
 <img src="https://pp.userapi.com/c847218/v847218128/8fa0/z7pTVd1zBg8.jpg" width="440" alt="">
